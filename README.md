@@ -3,5 +3,12 @@
 # Java Portfolio
 Portfolio Java Language
 Learning
-## Test
+Test
 
+![]()
+
+## Demonstração (Instruções para Instalação)
+- É necessario ter o Java versão 17 ou superior instalado
+- Em releases, baixar o executável .jar
+- No Windows basta clicar 2x com o mouse
+- No Linux transformar o arquivo em executável
