@@ -1,14 +1,45 @@
 ![GitHub](https://img.shields.io/github/license/offioss/portfolio-java)
 
 # Java Portfolio
-Portfolio Java Language
-Learning
-Test
+First lessons on programing and Java language.
+IT Technical Course at SENAC Tatuapé.
 
-![]()
+## Author
+Igor Oliveira
 
-## Demonstração (Instruções para Instalação)
-- É necessario ter o Java versão 17 ou superior instalado
-- Em releases, baixar o executável .jar
-- No Windows basta clicar 2x com o mouse
-- No Linux transformar o arquivo em executável
+## Portfolio Image
+![portfolio](https://github.com/offioss/portfolio-java/blob/main/img/portfolio.PNG)
+![portfolio](https://github.com/offioss/portfolio-java/blob/main/img/portfolioyugi.PNG)
+![portfolio](https://github.com/offioss/portfolio-java/blob/main/img/portfoliocep.PNG)
+![portfolio](https://github.com/offioss/portfolio-java/blob/main/img/portfolioimc.PNG)
+
+Random
+* Draw a card from a deck
+* Draw a YuGiOh card from a deck
+* Throw a dice
+* JoKenPo
+
+Temperature Conversion
+* Celsius to Fahrenheit
+* Fahrenheit to Celsius
+
+Calculators
+* Hour of service
+* BMI
+* Compound interest
+* Percentage
+* Multiplication table
+* Pay check
+
+Others
+* School report
+* Zip code search
+* Ethanol or gasoline ?
+* Can I vote ?
+
+## Setup install
+- Minimum Java 17 or superior
+- In Releases, download de file portfolio.jar
+To run on Windows: double click on the file portfolio.jar
+
+
