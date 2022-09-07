@@ -10,8 +10,8 @@ Igor Oliveira
 ## Portfolio Image
 ![portfolio](https://github.com/offioss/portfolio-java/blob/main/img/portfolio.PNG)
 ![portfolio](https://github.com/offioss/portfolio-java/blob/main/img/portfolioyugi.PNG)
-![portfolio](https://github.com/offioss/portfolio-java/blob/main/img/portfoliocep.PNG)
 ![portfolio](https://github.com/offioss/portfolio-java/blob/main/img/portfolioimc.PNG)
+![portfolio](https://github.com/offioss/portfolio-java/blob/main/img/portfoliocep.PNG)
 
 Random
 * Draw a card from a deck
